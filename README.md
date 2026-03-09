@@ -22,4 +22,4 @@ import { compile } from 'dl-typescript';
 ```
 
 ## Acknowledgements
-Thanks to all contributors who have helped improve this project. Inspired by similar open source projects. Built with love and coffee ☕
+Thanks to all contributors who have helped improve this project. Special thanks to open-source community for their support!
